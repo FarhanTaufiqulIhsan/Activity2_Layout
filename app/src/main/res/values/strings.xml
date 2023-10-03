@@ -4,4 +4,7 @@
     <string name="hp">0812746526378</string>
     <string name="submit">submit</string>
     <string name="amg">AMG ONE</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="texttengah">Select your car</string>
 </resources>
